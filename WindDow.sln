@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindDow", "WindDow\WindDow.csproj", "{A7A90A0D-2894-4460-BC1A-8B2BE9B3AB84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7A90A0D-2894-4460-BC1A-8B2BE9B3AB84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A90A0D-2894-4460-BC1A-8B2BE9B3AB84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A90A0D-2894-4460-BC1A-8B2BE9B3AB84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A90A0D-2894-4460-BC1A-8B2BE9B3AB84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25380668-9791-47CE-A069-FFBE584AD9BA}
+	EndGlobalSection
+EndGlobal
